@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Asilkhoja
+- 👋 Hi, I’m Asilkhoja
 - ⚙️ My specialty : .net core, winforms, asp.net mvc, asp.net mvc web api
 - 💻 My programming languages: .c .cs, .py, 
 - 🌱 Learning all about Najot Ta'lim
