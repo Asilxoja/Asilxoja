@@ -3,7 +3,7 @@
 - 💻 My programming languages: .c .cs, .py, 
 - 🌱 Learning all about Najot Ta'lim
 - ⚔️ Technogies and tools : .net, git, sql server
-- 📫 How to reach me [telegram]([url](https://t.me/Asilkhoja_Mansurov))
+- 📫 How to reach me [url](https://t.me/Asilkhoja_Mansurov)
 
 <!---
 Asilxoja/Asilxoja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
