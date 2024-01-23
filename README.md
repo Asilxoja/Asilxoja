@@ -1,11 +1,23 @@
-- 👋 Hi, I’m Asilkhoja
-- ⚙️ My specialty : .net core, winforms, asp.net mvc, asp.net mvc web api
-- 💻 My programming languages: .c .cs, .py, 
-- 🌱 Learning all about Najot Ta'lim
-- ⚔️ Technogies and tools : .net, git, sql server
-- 📫 How to reach me [telegram](https://t.me/Asilkhoja_Mansurov)
+Hello, I'm Asilkhoja 👋
+The software developer is building amazing web backend/frontend stuff using the .NET tech-stack. Proud co-founder of Najot Talim IT School, where we train future software developers.
+Dev.to Twitter LinkedIn Telegram Instagram Facebook
 
-<!---
-Asilxoja/Asilxoja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨🏻‍💻 I am now
+🤔 Learning new technologies and developing software solutions and quick hacks.
+⌛️ I am currently busy with:
+💼 Working as a software developer at Najot talim inc.
+👨‍🏫 Teaching programming at Najot Talim IT school
+🌱 Learning .NET CORE, ASP.NET CORE, SIGNALR and many more tech stuff.
+📫 Contact me: asilkhojamansurov217@gmail.com
+
+🛠 I Stack
+💻 .c | .cs | .py | .html | .css | .js
+🌐 .NET Core | MVC | WebApi
+🕸 Bootstrap | HTML5 | CSS
+🛢 SqlServer | PostgreSql | MongoDB
+⚙️ Git | Bash | Github actions
+
+I am statistics
+
+
+The breeder's series
