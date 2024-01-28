@@ -1,23 +1,20 @@
-Hello, I'm Asilkhoja 👋
-The software developer is building amazing web backend/frontend stuff using the .NET tech-stack. Proud co-founder of Najot Talim IT School, where we train future software developers.
-Dev.to Twitter LinkedIn Telegram Instagram Facebook
+# Asilxo'jas's Developer Readme
 
-👨🏻‍💻 I am now
-🤔 Learning new technologies and developing software solutions and quick hacks.
-⌛️ I am currently busy with:
-💼 Working as a software developer at Najot talim inc.
-👨‍🏫 Teaching programming at Najot Talim IT school
-🌱 Learning .NET CORE, ASP.NET CORE, SIGNALR and many more tech stuff.
-📫 Contact me: asilkhojamansurov217@gmail.com
+## Hi there, I am Mirabbos! 👋
+I'm a Software Engineer based in Uzbekistan.
 
-🛠 I Stack
-💻 .c | .cs | .py | .html | .css | .js
-🌐 .NET Core | MVC | WebApi
-🕸 Bootstrap | HTML5 | CSS
-🛢 SqlServer | PostgreSql | MongoDB
-⚙️ Git | Bash | Github actions
-
-I am statistics
-
-
-The breeder's series
+### BIO
+- 🏢 Currently studying at Najot Talim.
+- ⚙️ My specialties: .NET, ASP.NET, WPF, Microsoft Sql Server.
+- 💻 Programming languages:C, C#, Python, Base JavaScript 
+- ⚔️ Technologies and tools: .NET, Git,  PostgreSQL, SQL Server, MongoDb.
+- 🌍 Mostly active within the MDevs Group .
+- 🌱 Learning all about Open Source.
+- 📫 Connect with me: [Telegram](https://t.me/asilkhoja_mansurov), [LinkedIn](https://www.linkedin.com/in/asilxo-ja-mansurov-aa0151277//).
+### Top Skills
+- C#
+- ASP.NET Web API
+- MongoDB
+- Microsoft SQL Server
+- ASP.NET Core
+Feel free to reach out for collaborations or discussions on any projects or technologies!
