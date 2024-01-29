@@ -1,6 +1,6 @@
 # Asilxo'jas's Developer Readme
 
-## Hi there, I am Mirabbos! 👋
+## Hi there, I am Asilxo'ja! 👋
 I'm a Software Engineer based in Uzbekistan.
 
 ### BIO
